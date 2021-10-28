@@ -16,13 +16,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yujingwyh.visitor-badge)
 
-
 * 📍 杭州
 * 🍉 Front end developer (react)
 * 📧 yujingwyh#163.com
-
-<br />
-
 
 ### Articles and projects
 
