@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**yujingwyh/yujingwyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open source project
 
-Here are some ideas to get you started:
+- [**questionare-generator**](https://songjianet.github.io/questionare-generator-dashboard/)
+- [**wechat-city-picker**](https://github.com/songjianet/wechat-city-picker)
+- [**multi-function-table**](https://github.com/songjianet/multi-function-table)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+### GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yujingwyh&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujingwyh&layout=compact&langs_count=8&theme=vue"/>
+</p>
