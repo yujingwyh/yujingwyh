@@ -10,10 +10,6 @@
   <img align="left" alt="wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 
-<a href="https://github.com/yujingwyh">
-  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=yujingwyh.visitor-badge)
 
 * 📍 杭州
