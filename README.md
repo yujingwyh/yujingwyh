@@ -19,6 +19,5 @@
 ### Articles and projects
 
 - [**用200行代码实现一个超小的react**](https://zhuanlan.zhihu.com/p/408340406)
-- [**mdel(数据管理器)**](https://github.com/mdeljs/mdel)
 - [**深入解析微前端乾坤原理**](https://zhuanlan.zhihu.com/p/414468874)
 - [**preact源码解析，从preact中理解react原理**](https://zhuanlan.zhihu.com/p/100076938)
